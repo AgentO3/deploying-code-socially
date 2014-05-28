@@ -3,7 +3,9 @@ Deploying Code Socially
 
 The act of deploying code should not be something a developer does in a room by their self with the lights out. No matter how big of a change every deployment to production is an event to celebrate. By making deployments easy and fun the result is that deployments happen more often!
 
-At VividCortex getting code into production was a rare event and was done in solitude. I will discuss how we created a culture that encourages deploying code early and often by making it a social activity. I will go over some of the tools and techniques we adopted. These methods helped us turn what some developers consider a scary and risky process into something that is fun and rewarding.
+One point at VividCortex getting code into production was a rare event. Deployments was act of solitude. Only a limited few had the tools and knowledge to correctly execute the commands to deploy. In order for VividCortex to meet the expectations of it's stake holders and deliver requested features things needed to change.
+
+I will discuss how we created a culture that encourages deploying code early and often by making deploying a social activity. I will go over some of the tools and techniques we adopted. These methods helped us turn what some developers consider a scary and risky process into something that is fun and rewarding.
 
 
 
